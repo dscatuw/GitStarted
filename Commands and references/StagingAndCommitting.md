@@ -1,3 +1,1 @@
-``` 
-git clone
-```
+``` git clone```
