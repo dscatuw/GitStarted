@@ -22,9 +22,9 @@ Use this for saving your progress/revisions.
 ## Additional
 ### Links
 - Use version control in IntelliJ and more in-depth explanation for committing/pushing/pulling
-[CSE 373]https://courses.cs.washington.edu/courses/cse373/20au/projects/cse143review/submit/#committing
+[CSE 373](https://courses.cs.washington.edu/courses/cse373/20au/projects/cse143review/submit/#committing)
 - This entire series covers tools seldom introduced in cs classes, lecture 6 is specific on Version Control (Git) 
-[Git's data model] (https://missing.csail.mit.edu/2020/version-control/)
+[Git's data model](https://missing.csail.mit.edu/2020/version-control/)
 
 ### Notes
 1. There is an exception for the quoted sentences in ``` git commit```, which is when no branch is associated with the working tree, in which case HEAD is "detached".
