@@ -10,7 +10,8 @@ Followed by the filename(s) you are adding to the repository. Notice this would 
 <br/>
 ``` git commit```
 Use this for saving your progress/revisions.
-> The new commit is a direct child of HEAD, usually the tip of the current branch, and the branch is updated to point to it [git commit documentation](https://git-scm.com/docs/git-commit)
+> The new commit is a direct child of HEAD, usually the tip of the current branch, and the branch is updated to point to it <br/>
+-- [git commit documentation](https://git-scm.com/docs/git-commit)
 
 
 
