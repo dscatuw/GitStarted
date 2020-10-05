@@ -2,16 +2,17 @@
 ## Fundamentals
 ``` git clone```
 First, clone this repository in your preferred way. Either use [GitHub Desktop](https://desktop.github.com/) if you like a to visualize with an interactive window, or paste the URL after this command retrieved from clicking the green button that reads **Code**. No matter which option, you should only clone each repository once.
-
+<br/>
+<br/>
 ``` git add```
 Followed by the filename(s) you are adding to the repository. Notice this would add any igonore files by default. Need to specify your directory.
-
+<br/>
+<br/>
 ``` git commit```
 Use this for saving your progress/revisions.
 > The new commit is a direct child of HEAD, usually the tip of the current branch, and the branch is updated to point to it [git commit documentation](https://git-scm.com/docs/git-commit)
 
-``` git push```
-Use this for publishing your revisions.
+
 
 ## Instructions
 1.After followingg the tutorial, compare the view of commit history in terminal versus in GitHub Desktop.
