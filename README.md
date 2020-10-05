@@ -9,5 +9,5 @@ GitStarted is an introduction to Git version management workshop hosted and init
 - to help you practice and improve with Git
 
 ## Contributors
-
+Powered by [All Contributers](https://allcontributors.org/)
 
