@@ -30,7 +30,7 @@ Use this for saving your progress/revisions.
 ### Links
 
 - [**CSE 373**](https://courses.cs.washington.edu/courses/cse373/20au/projects/cse143review/submit/#committing): use version control in IntelliJ and more in-depth explanation for committing/pushing/pulling
-- [**Git's data model**](https://missing.csail.mit.edu/2020/version-control/): this entire series covers tools seldomly introduced in CS classes, lecture 6 is specific on Version Control (Git) 
+- [**Git's data model**](https://missing.csail.mit.edu/2020/version-control/): this entire series covers tools seldomly introduced in CS classes, lecture 6 is specific on Version Control (Git)
 
 ### Notes
 
