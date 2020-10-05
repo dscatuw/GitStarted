@@ -20,7 +20,7 @@ snapshots, allowing one commit's patch to go ahead of another commit. Instead of
 - [Merging versus Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 <br/>
 ### Notes
-1.When prompted with error: ```src refspec branch does not match any.``` One solution is to use ```git push origin HEAD --force``` <br/> 
+1. When prompted with error: ```src refspec branch does not match any.``` One solution is to use ```git push origin HEAD --force``` <br/> 
 instead of the original second line.
-2.A real-world scenario for using rebasing might be to have a "clean history", when you have multiple people working on the same project, you might want to arrange<br/>
+2. A real-world scenario for using rebasing might be to have a "clean history", when you have multiple people working on the same project, you might want to arrange<br/>
 their commits to show features added or parts revised.
