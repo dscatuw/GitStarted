@@ -1,7 +1,5 @@
-
 <h1>
-
-![GitStarted Workshop](https://user-images.githubusercontent.com/69285450/95026607-2b672200-0658-11eb-90ae-f33badf06d88.png)
+  <img alt="GitStarted Workshop" src="https://user-images.githubusercontent.com/69285450/95026607-2b672200-0658-11eb-90ae-f33badf06d88.png">
 </h1>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
