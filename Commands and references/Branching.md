@@ -4,12 +4,19 @@ git checkout can actually be used without the given branch name, checkingout wit
 **NOTE:** changes would be discarded.
 <br/>
 ```git checkout -b new_branch_name```
-Adding the -b flag creates a new branch with the given name, similar to what ```git branch``` does. <br/>
-<br/>
+Adding the -b flag creates a new branch with the given name, similar to what ```git branch``` does. 
+
+
+
+
 ```git branch```
-<br/>
+
+
+
 ```git switch```
-<br/>
+
+
+
 ```git restore```
 Introduced by Git 2.25.0, used instead of git reset from this version onward.
 ```git reset --hard [<commit>]```
