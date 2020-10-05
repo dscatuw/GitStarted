@@ -1,10 +1,12 @@
-# GitStartedWorkshop
+
+<h1>
+
+![GitStarted Workshop](https://user-images.githubusercontent.com/69285450/95026607-2b672200-0658-11eb-90ae-f33badf06d88.png)
+</h1>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-![WorkshopBanner](https://user-images.githubusercontent.com/69285450/95026607-2b672200-0658-11eb-90ae-f33badf06d88.png)
 
 ## About GitStarted
 
