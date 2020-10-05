@@ -26,10 +26,11 @@ since it's not editing the original commit but more so replacing it with a new c
 
 ### `git rebasing`
 
-Interested in rewriting history? First make sure you understand the consequences of using the command. This command enables a process of reconnecting the
+Interested in rewriting history?
 
-
-snapshots, allowing one commit's patch to go ahead of another commit. Instead of merging, this would seem more like reconnecting. 
+First, make sure you understand the consequences of using the command. 
+This command enables a process of reconnecting the snapshots, allowing one commit's patch to go ahead of another commit.
+Instead of merging, this would seem more like reconnecting. 
 
 ---
 
