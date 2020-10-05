@@ -5,7 +5,7 @@ Dedicated to situations where you feel like _Oops I messed up_
 ## Fundamentals
 
 
-## `git reset --hard <old-commit-id>`
+### `git reset --hard <old-commit-id>`
 
 ## `git push -f <remote-name> <branch-name>`
 
