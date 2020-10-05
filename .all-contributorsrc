@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "xinyixiang",
+      "name": "Xinyi Xiang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30137615?v=4",
+      "profile": "https://xinyixiang.github.io/PersonalWebsiteXinyi/",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "GitStartedWorkshop",
+  "projectOwner": "dscatuw",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
