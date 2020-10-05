@@ -7,12 +7,12 @@ Dedicated to situations where you feel like _Oops I messed up_
 
 ### `git reset --hard <old-commit-id>`
 
-## `git push -f <remote-name> <branch-name>`
+### `git push -f <remote-name> <branch-name>`
 
 You might end up having a time if the remote-branch-name and your current-branch-name are not attached. 
 
 
-## `git commit --amend`
+### `git commit --amend`
 
 You can simply edit the commit messages without altering the commit messages. But what this command seems to Git would look more like a brand new commit, 
 
@@ -20,9 +20,9 @@ You can simply edit the commit messages without altering the commit messages. Bu
 since it's not editing the original commit but more so replacing it with a new commit.
 
 
-## `git reset --soft`
+### `git reset --soft`
 
-## `git rebasing`
+### `git rebasing`
 
 Interested in rewriting history? First make sure you understand the consequences of using the command. This command enables a process of reconnecting the
 
@@ -42,7 +42,7 @@ snapshots, allowing one commit's patch to go ahead of another commit. Instead of
 ### Notes
 1. When prompted with error: ``` src refspec branch does not match any ``` 
 One solution is to use 
-## `git push origin HEAD --force `
+### `git push origin HEAD --force `
 instead of the original second line.
 
 
