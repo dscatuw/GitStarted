@@ -1,4 +1,4 @@
-# Part 5 Pulling and Pushing
+# Part 5 - Pulling and Pushing
 
 ## Fundamentals
 ``` git push```
