@@ -3,7 +3,7 @@
 </h1>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About GitStarted
@@ -25,8 +25,9 @@ Powered by [All Contributers](https://allcontributors.org/)
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://xinyixiang.github.io/PersonalWebsiteXinyi/"><img src="https://avatars1.githubusercontent.com/u/30137615?v=4" width="100px;" alt=""/><br /><sub><b>Xinyi Xiang</b></sub></a><br /><a href="https://github.com/dscatuw/GitStartedWorkshop/commits?author=xinyixiang" title="Code">💻</a> <a href="#content-xinyixiang" title="Content">🖋</a></td>
-    <td align="center"><a href="http://apollozhu.github.io/en/about/"><img src="https://avatars1.githubusercontent.com/u/10842684?v=4" width="100px;" alt=""/><br /><sub><b>Zhiyu Zhu/朱智语</b></sub></a><br /><a href="https://github.com/dscatuw/GitStartedWorkshop/commits?author=ApolloZhu" title="Code">💻</a> <a href="#content-ApolloZhu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://xinyixiang.github.io/PersonalWebsiteXinyi/"><img src="https://avatars1.githubusercontent.com/u/30137615?v=4" width="100px;" alt=""/><br /><sub><b>Xinyi Xiang</b></sub></a><br /><a href="https://github.com/dscatuw/GitStarted/commits?author=xinyixiang" title="Code">💻</a> <a href="#content-xinyixiang" title="Content">🖋</a></td>
+    <td align="center"><a href="http://apollozhu.github.io/en/about/"><img src="https://avatars1.githubusercontent.com/u/10842684?v=4" width="100px;" alt=""/><br /><sub><b>Zhiyu Zhu/朱智语</b></sub></a><br /><a href="https://github.com/dscatuw/GitStarted/commits?author=ApolloZhu" title="Code">💻</a> <a href="#content-ApolloZhu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/SilliJelli"><img src="https://avatars2.githubusercontent.com/u/68573828?v=4" width="100px;" alt=""/><br /><sub><b>Gladys Wang</b></sub></a><br /><a href="https://github.com/dscatuw/GitStarted/commits?author=SilliJelli" title="Code">💻</a> <a href="#content-SilliJelli" title="Content">🖋</a></td>
   </tr>
 </table>
 
