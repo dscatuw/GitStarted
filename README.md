@@ -10,7 +10,7 @@
 
 GitStarted is an introduction to Git version management workshop hosted and initiated by [Developer Student Clubs at UW](https://dsc.community.dev/university-of-washington/).
 
-## Used this repo to
+## Use this repo to
 
 - practice along with [workshop tutorials](slides)
 - provide a clear view of [available resoureces](docs) related to the workshop
