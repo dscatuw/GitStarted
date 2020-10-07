@@ -24,10 +24,20 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "SilliJelli",
+      "name": "Gladys Wang",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/68573828?v=4",
+      "profile": "https://github.com/SilliJelli",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "GitStartedWorkshop",
+  "projectName": "GitStarted",
   "projectOwner": "dscatuw",
   "repoType": "github",
   "repoHost": "https://github.com",
