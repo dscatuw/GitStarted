@@ -12,7 +12,8 @@ GitStarted is an introduction to Git version management workshop hosted and init
 
 ## Use this repo to
 
-- practice along with [workshop tutorials](slides)
+- practice along with [workshop tutorials](https://youtu.be/WM8msxE7kZY)
+- with an overview of the [slides](slides)
 - provide a clear view of [available resoureces](docs) related to the workshop
 - help you practice and improve with Git
 
